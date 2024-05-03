@@ -222,4 +222,9 @@
   "workbench.colorTheme": "Evro Dark",
   "dotnet.server.useOmnisharp": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "csharp.format.enable": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "git.enableSmartCommit": true,
+  "cmake.showOptionsMovedNotification": false,
 }
